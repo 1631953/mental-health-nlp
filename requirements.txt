@@ -1,13 +1,21 @@
 # Preprocessing
 contractions
+nltk
+spacy
 
-# LDA visualization
+# Dades i manipulació
+numpy==1.24.4
+pandas
+
+# Visualització
+matplotlib
+seaborn
 pyLDAvis
 
-# Word2Vec
-numpy==1.24.4
+# Models de llenguatge
 gensim
-
-# Transformers (BERT) i Sentence Transformers
 transformers==4.40.1
 sentence-transformers==2.6.1
+
+# Aprenentatge automàtic
+scikit-learn
