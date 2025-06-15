@@ -1,0 +1,13 @@
+# Preprocessing
+contractions
+
+# LDA visualization
+pyLDAvis
+
+# Word2Vec
+numpy==1.24.4
+gensim
+
+# Transformers (BERT) i Sentence Transformers
+transformers==4.40.1
+sentence-transformers==2.6.1
