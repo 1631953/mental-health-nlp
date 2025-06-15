@@ -6,15 +6,16 @@ S’hi comparen diferents tècniques de representació del llenguatge —des de 
 ## Estructura del repositori
 ```text
 mental-health-nlp/
-├── notebooks/             # 5 notebooks del projecte (Kaggle i DAIC-WOZ)
+├── notebooks/           # 5 notebooks del projecte (1, 2 i 3 de Kaggle, 4 i 5 de DAIC-WOZ, amb resultats ocults)
 ├── results/
-│   ├── figures/           # Gràfics i visualitzacions (t-SNE, etc.)
-│   ├── lda_html/          # Visualitzacions LDA en format HTML
-│   └── models/            # Models entrenats i label encoders (.joblib, .json)
-├── .gitignore             # Fitxers i carpetes que Git ha d’ignorar
-├── LICENSE.txt            # Llicència d’ús (CC BY-NC 4.0)
-├── README.md              # Descripció del projecte
-└── requirements.txt       # Dependències Python per executar els notebooks
+│   ├── figures/         # Visualitzacions t-SNE obtingudes
+│   ├── lda_html/        # Visualitzacions LDA en format HTML
+│   └── models/          # Millors models entrenats, vectoritzadors i label encoders (.joblib, .json)
+├── .gitignore           # Fitxers i carpetes que Git ha d’ignorar
+├── LICENSE.txt          # Llicència d’ús (CC BY-NC 4.0)
+├── README.md            # Descripció del projecte
+└── requirements.txt     # Dependències Python per executar els notebooks
+
 ````
 
 > **Nota**: les dades utilitzades són de caràcter sensible o amb restriccions d’ús, per tant no s’inclouen directament en aquest repositori.
