@@ -27,7 +27,6 @@ mental-health-nlp/
   [Sentiment Analysis for Mental Health – Kaggle Dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)
 
 - **DAIC-WOZ** — Per motius de sensibilitat, les dades derivades del corpus clínic DAIC-WOZ no s'inclouen al repositori. Cal sol·licitar-les als autors i acceptar el seu acord d’ús.  
-  Al repositori només s’inclouen els articles obligatoris per citar el corpus (**`daic-woz/citations/`**).
 
 ## Requisits
 
