@@ -26,7 +26,7 @@ mental-health-nlp/
 - **Kaggle** — El conjunt de dades de Kaggle utilitzat es pot descarregar aquí:  
   [Sentiment Analysis for Mental Health – Kaggle Dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)
 
-- **DAIC-WOZ** — Per motius de sensibilitat, les dades derivades del corpus clínic DAIC-WOZ no s'inclouen al repositori. Cal sol·licitar-les als autors i acceptar el seu acord d’ús.
+- **DAIC-WOZ** — Per motius de sensibilitat, les dades derivades del corpus clínic DAIC-WOZ no s'inclouen al repositori. Cal sol·licitar-les als autors i acceptar el seu acord d’ús:
   [DAIC-WOZ Database & Extended DAIC Database](https://dcapswoz.ict.usc.edu/) 
 
 ## Requisits
