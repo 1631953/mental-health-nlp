@@ -1,4 +1,4 @@
-# Classificació de Trastorns Mentals i Detecció de Patrons Lingüístics en Xarxes Socials
+# Classificació de Trastorns Mentals i Detecció de Patrons Lingüístics a les Xarxes Socials
 Aquest repositori conté el codi i els resultats del Treball de Final de Grau _Classificació de Trastorns Mentals i Detecció de Patrons Lingüístics en Xarxes Socials_, centrat en l’ús de tècniques de processament del llenguatge natural (NLP) per detectar patrons lingüístics associats a diversos trastorns mentals en textos publicats a xarxes socials.
 
 S’hi comparen diferents tècniques de representació del llenguatge —des de models clàssics fins a *Large Language Models* (LLMs)— combinades amb diversos classificadors. També s’avalua la seva capacitat per generalitzar en contextos clínics, com el corpus DAIC-WOZ.
